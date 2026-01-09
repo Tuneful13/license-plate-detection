@@ -1,4 +1,4 @@
-name: vision_env
+name: license_plate
 channels:
   - pytorch
   - nvidia
