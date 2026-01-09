@@ -13,13 +13,10 @@ Sistema de visión artificial para la detección y lectura de matrículas en tie
 
 ##  Instalación y Configuración
 
-Primero, asegúrate de tener [Conda](https://docs.conda.io/en/latest/) instalado. Luego, crea el entorno virtual:
-
 ```bash
 # Crear el entorno desde el archivo yml
 conda env create -f environment.yml
 
-# Activar el entorno
 conda activate vision_env
 ```
 
